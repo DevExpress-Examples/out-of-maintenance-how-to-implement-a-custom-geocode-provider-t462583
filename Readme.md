@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/CustomGeocodeProvider/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CustomGeocodeProvider/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/CustomGeocodeProvider/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomGeocodeProvider/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/CustomGeocodeProvider/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomGeocodeProvider/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Implement a Custom Geocode Provider
